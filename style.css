@@ -151,6 +151,9 @@ footer {
     background-color: #2C3639;
     font-size: 14px;
     padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 footer a {
