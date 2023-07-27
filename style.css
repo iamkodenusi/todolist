@@ -160,3 +160,14 @@ footer a {
     color: white;
     text-decoration: underline;
   }
+
+@media (min-width: 480px) and (max-width: 767px){
+    /* Adjustments for mobile */
+  }
+  
+  @media (min-width: 768px) and (max-width: 991px){
+    /* Adjustments for tablet */
+  }
+  
+  @media (min-width: 992px){
+    /* Adjustments for desktop */}
